@@ -1,0 +1,7 @@
+D:\Projetos\VisualStudio\Tp1FundamentoCSharp\Tp1FundamentoCSharp\bin\Debug\Tp1FundamentoCSharp.exe.config
+D:\Projetos\VisualStudio\Tp1FundamentoCSharp\Tp1FundamentoCSharp\bin\Debug\Tp1FundamentoCSharp.exe
+D:\Projetos\VisualStudio\Tp1FundamentoCSharp\Tp1FundamentoCSharp\bin\Debug\Tp1FundamentoCSharp.pdb
+D:\Projetos\VisualStudio\Tp1FundamentoCSharp\Tp1FundamentoCSharp\obj\Debug\Adicao.csprojResolveAssemblyReference.cache
+D:\Projetos\VisualStudio\Tp1FundamentoCSharp\Tp1FundamentoCSharp\obj\Debug\Adicao.csproj.CoreCompileInputs.cache
+D:\Projetos\VisualStudio\Tp1FundamentoCSharp\Tp1FundamentoCSharp\obj\Debug\Tp1FundamentoCSharp.exe
+D:\Projetos\VisualStudio\Tp1FundamentoCSharp\Tp1FundamentoCSharp\obj\Debug\Tp1FundamentoCSharp.pdb
